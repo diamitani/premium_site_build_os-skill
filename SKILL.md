@@ -1,3 +1,9 @@
+---
+name: premium-site-build-os
+description: >
+  **Codename:** Site Empire OS **Status:** Canonical — use as README, `soul.md`, `SKILL.md`, or instruction pack **Owner:** Builder / operator (you) Use this skill when working with premium site build os tasks or workflows.
+---
+
 # Premium Site Build Operating System
 
 **Codename:** Site Empire OS  
